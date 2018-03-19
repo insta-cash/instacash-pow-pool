@@ -1,0 +1,7 @@
+{
+    "name": "Instacash",
+    "symbol": "ICH",
+    "algorithm": "quark",
+    "peerMagic": "90c4fde9",
+    "peerMagicTestnet": "457665ba"
+}
